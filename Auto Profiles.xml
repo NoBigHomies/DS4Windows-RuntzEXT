@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Auto-Profile Configuration Data. 30/07/2023 18:15:34 -->
+
+<Programs>
+  <Program path="C:\Users\elias\Downloads\AutoHotkey_2.1-alpha.1.1\AutoHotkey32.exe" title="">
+    <Controller1>Default</Controller1>
+    <Controller2>(none)</Controller2>
+    <Controller3>(none)</Controller3>
+    <Controller4>(none)</Controller4>
+    <Controller5>(none)</Controller5>
+    <Controller6>(none)</Controller6>
+    <Controller7>(none)</Controller7>
+    <Controller8>(none)</Controller8>
+    <TurnOff>False</TurnOff>
+  </Program>
+</Programs>

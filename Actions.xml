@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Special Actions Configuration Data. 03/04/2025 02:30:22 -->
+
+<Actions>
+  <Action Name="Disconnect Controller">
+    <Trigger>PS/Options</Trigger>
+    <Type>DisconnectBT</Type>
+    <Details>0</Details>
+  </Action>
+  <Action Name="Auto-ping (R1)">
+    <Trigger>Right Stick Right</Trigger>
+    <Type>Macro</Type>
+    <Details>267/304/267/301/267/301/267</Details>
+  </Action>
+  <Action Name="Auto-ping (L3)">
+    <Trigger>L3</Trigger>
+    <Type>Macro</Type>
+    <Details>267/304/267/301/267/301/267</Details>
+  </Action>
+  <Action Name="Macro yyy normal">
+    <Trigger>L3</Trigger>
+    <Type>Macro</Type>
+    <Details>264/400/264/400/264/400/264</Details>
+    <Extras>Repeat</Extras>
+  </Action>
+  <Action Name="Macro yyy ++speed">
+    <Trigger>L3</Trigger>
+    <Type>Macro</Type>
+    <Details>264/320/264/320/264/320/264</Details>
+    <Extras>Repeat</Extras>
+  </Action>
+  <Action Name="Macro yyy +speed">
+    <Trigger>L3</Trigger>
+    <Type>Macro</Type>
+    <Details>264/350/264/350/264/350/264</Details>
+    <Extras>Repeat</Extras>
+  </Action>
+  <Action Name="R1 Click Mouse">
+    <Trigger>R1</Trigger>
+    <Type>Macro</Type>
+    <Details>256/301/256</Details>
+  </Action>
+  <Action Name="Double Jump (O)">
+    <Trigger>Circle</Trigger>
+    <Type>Macro</Type>
+    <Details>262/301/262</Details>
+    <Extras>Repeat</Extras>
+  </Action>
+  <Action Name="Double Jump (X)">
+    <Trigger>Cross</Trigger>
+    <Type>Macro</Type>
+    <Details>261/301/261</Details>
+    <Extras>Repeat</Extras>
+  </Action>
+  <Action Name="Auto-ping (Aut)">
+    <Trigger>R2</Trigger>
+    <Type>Macro</Type>
+    <Details>274/301/274/301/267/301/267/301/274/301/274</Details>
+    <Extras>Scan Code</Extras>
+  </Action>
+  <Action Name="R2 Click Mouse">
+    <Trigger>R2</Trigger>
+    <Type>Macro</Type>
+    <Details>256/301/256</Details>
+  </Action>
+  <Action Name="Buffaim 100%">
+    <Trigger>R3/L3</Trigger>
+    <Type>SASteeringWheelEmulationCalibrate</Type>
+  </Action>
+  <Action Name="Double Jump (L1)">
+    <Trigger>L1</Trigger>
+    <Type>Macro</Type>
+    <Details>272/301/272</Details>
+    <Extras>Repeat</Extras>
+  </Action>
+  <Action Name="Slide Cancel  (X)">
+    <Trigger>Cross</Trigger>
+    <Type>Macro</Type>
+    <Details>264/320/264/320/264/320/264/320/261/400/261/390/262/400/262</Details>
+  </Action>
+  <Action Name="Slide Cancel  (O)">
+    <Trigger>Circle</Trigger>
+    <Type>Macro</Type>
+    <Details>264/320/264/320/264/320/264/320/262/400/262/390/261/400/261</Details>
+  </Action>
+  <Action Name="Anti-recul 100% (dualsense)">
+    <Trigger>R2 Full Pull</Trigger>
+    <Type>Macro</Type>
+    <Details>275/301/275/325/284/301/284/301/275/301/275</Details>
+    <Extras>Repeat</Extras>
+  </Action>
+</Actions>

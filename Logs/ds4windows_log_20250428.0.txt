@@ -1,0 +1,118 @@
+2025-04-27 22:40:08.6050|INFO|DS4Windows version 3.2.9
+2025-04-27 22:40:08.6098|INFO|DS4Windows exe file: DS4WINDOWSHyperAxel2.exe
+2025-04-27 22:40:08.6098|INFO|DS4Windows Assembly Architecture: x64
+2025-04-27 22:40:08.6098|INFO|OS Version: Microsoft Windows NT 10.0.22631.0
+2025-04-27 22:40:08.6098|INFO|OS Product Name: Windows 10 Enterprise
+2025-04-27 22:40:08.6098|INFO|OS Release ID: 2009
+2025-04-27 22:40:08.6098|INFO|System Architecture: x64
+2025-04-27 22:40:08.6098|INFO|Logger created
+2025-04-27 22:40:09.8734|INFO|Running as User
+2025-04-27 22:40:09.8734|INFO|HidHide control device found
+2025-04-27 22:40:09.8734|INFO|DS4Windows not found in HidHide whitelist. Adding to list
+2025-04-27 22:40:10.9003|INFO|Starting...
+2025-04-27 22:40:10.9003|INFO|Using output KB+M handler: FakerInput 0.1.0.0
+2025-04-27 22:40:10.9003|INFO|Connection to ViGEmBus 1.21.442.0 established
+2025-04-27 22:40:10.9003|INFO|Searching for controllers...
+2025-04-27 22:40:10.9003|INFO|Using Exclusive Mode
+2025-04-27 22:47:51.1846|INFO|Found Controller: E8:47:3A:40:E2:34 (BT) (DualSense Edge).
+2025-04-27 22:47:51.3490|INFO|Plugging in virtual DS4 Controller in output slot #1
+2025-04-27 22:47:51.3490|INFO|Associated input controller #1 (DualSense Edge) to virtual DS4 Controller in output slot #1
+2025-04-27 22:47:51.3742|INFO|Controller 1 is using Profile "++". Battery level is 0%
+2025-04-27 22:52:12.9950|WARN|E8:47:3A:40:E2:34 disconnected due to read failure: 0
+2025-04-27 22:52:13.0084|INFO|Disassociated virtual DS4 Controller in output slot #1 from input controller #1 (DualSense Edge)
+2025-04-27 22:52:13.0557|INFO|Unplugging virtual DS4 Controller from output slot #1
+2025-04-27 22:52:13.0557|INFO|Controller 1 was removed or lost connection. Charge the battery
+2025-04-27 22:52:58.8547|INFO|Found Controller: E8:47:3A:40:E2:34 (BT) (DualSense Edge).
+2025-04-27 22:52:58.9858|INFO|Plugging in virtual DS4 Controller in output slot #1
+2025-04-27 22:52:58.9858|INFO|Associated input controller #1 (DualSense Edge) to virtual DS4 Controller in output slot #1
+2025-04-27 22:52:58.9858|INFO|Controller 1 is using Profile "++". Battery level is 0%
+2025-04-27 22:53:11.0246|WARN|E8:47:3A:40:E2:34 disconnected due to read failure: 0
+2025-04-27 22:53:11.0338|INFO|Disassociated virtual DS4 Controller in output slot #1 from input controller #1 (DualSense Edge)
+2025-04-27 22:53:11.0544|INFO|Unplugging virtual DS4 Controller from output slot #1
+2025-04-27 22:53:11.0544|INFO|Controller 1 was removed or lost connection. Charge the battery
+2025-04-27 22:53:46.8543|INFO|Found Controller: 4C:B9:9B:B7:3B:F5 (USB) (DualSense).
+2025-04-27 22:53:46.9870|INFO|Plugging in virtual DS4 Controller in output slot #1
+2025-04-27 22:53:46.9870|INFO|Associated input controller #1 (DualSense) to virtual DS4 Controller in output slot #1
+2025-04-27 22:53:46.9870|INFO|Controller 1 is using Profile "++". Battery level is 0%
+2025-04-27 22:54:34.4560|INFO|Disassociated virtual DS4 Controller in output slot #1 from input controller #1 (DualSense)
+2025-04-27 22:54:34.4744|INFO|Unplugging virtual DS4 Controller from output slot #1
+2025-04-27 22:54:34.4744|INFO|Controller 1 was removed or lost connection
+2025-04-27 22:54:53.1221|INFO|Found Controller: 4C:B9:9B:B7:3B:F5 (USB) (DualSense).
+2025-04-27 22:54:53.2611|INFO|Plugging in virtual DS4 Controller in output slot #1
+2025-04-27 22:54:53.2611|INFO|Associated input controller #1 (DualSense) to virtual DS4 Controller in output slot #1
+2025-04-27 22:54:53.2643|INFO|Controller 1 is using Profile "++". Battery level is 0%
+2025-04-28 00:11:01.8556|ERROR|Thread Crashed with message Could not load file or assembly 'MdXaml, Version=1.16.2.0, Culture=neutral, PublicKeyToken=9f8c7afb435b7edc'. The system cannot find the file specified.
+2025-04-28 00:11:01.8836|ERROR|System.IO.FileNotFoundException: Could not load file or assembly 'MdXaml, Version=1.16.2.0, Culture=neutral, PublicKeyToken=9f8c7afb435b7edc'. The system cannot find the file specified.
+File name: 'MdXaml, Version=1.16.2.0, Culture=neutral, PublicKeyToken=9f8c7afb435b7edc'
+   at DS4WinWPF.DS4Forms.ViewModels.ChangelogViewModel.BuildChangelogDocument(ChangelogInfo tempInfo)
+   at DS4WinWPF.DS4Forms.ViewModels.ChangelogViewModel.RetrieveChangelogInfo()
+   at System.Threading.Tasks.Task.<>c.<ThrowAsync>b__128_0(Object state)
+   at System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   at System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
+2025-04-28 00:11:01.8958|ERROR|Thread Crashed with message Could not load file or assembly 'MdXaml, Version=1.16.2.0, Culture=neutral, PublicKeyToken=9f8c7afb435b7edc'. The system cannot find the file specified.
+2025-04-28 00:11:01.8958|ERROR|System.IO.FileNotFoundException: Could not load file or assembly 'MdXaml, Version=1.16.2.0, Culture=neutral, PublicKeyToken=9f8c7afb435b7edc'. The system cannot find the file specified.
+File name: 'MdXaml, Version=1.16.2.0, Culture=neutral, PublicKeyToken=9f8c7afb435b7edc'
+   at DS4WinWPF.DS4Forms.ViewModels.ChangelogViewModel.BuildChangelogDocument(ChangelogInfo tempInfo)
+   at DS4WinWPF.DS4Forms.ViewModels.ChangelogViewModel.RetrieveChangelogInfo()
+   at System.Threading.Tasks.Task.<>c.<ThrowAsync>b__128_0(Object state)
+   at System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   at System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
+   at System.Windows.Threading.DispatcherOperation.InvokeImpl()
+   at MS.Internal.CulturePreservingExecutionContext.CallbackWrapper(Object obj)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at MS.Internal.CulturePreservingExecutionContext.Run(CulturePreservingExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Windows.Threading.DispatcherOperation.Invoke()
+   at System.Windows.Threading.Dispatcher.ProcessQueue()
+   at System.Windows.Threading.Dispatcher.WndProcHook(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   at MS.Win32.HwndWrapper.WndProc(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   at MS.Win32.HwndSubclass.DispatcherCallbackOperation(Object o)
+   at System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   at System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
+   at System.Windows.Threading.Dispatcher.LegacyInvokeImpl(DispatcherPriority priority, TimeSpan timeout, Delegate method, Object args, Int32 numArgs)
+   at MS.Win32.HwndSubclass.SubclassWndProc(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam)
+   at MS.Win32.UnsafeNativeMethods.DispatchMessage(MSG& msg)
+   at System.Windows.Threading.Dispatcher.PushFrameImpl(DispatcherFrame frame)
+   at System.Windows.Threading.Dispatcher.PushFrame(DispatcherFrame frame)
+   at System.Windows.Window.ShowHelper(Object booleanBox)
+   at System.Windows.Window.Show()
+   at System.Windows.Window.ShowDialog()
+   at DS4WinWPF.DS4Forms.MainWindow.ChecklogViewBtn_Click(Object sender, RoutedEventArgs e)
+   at System.Windows.EventRoute.InvokeHandlersImpl(Object source, RoutedEventArgs args, Boolean reRaised)
+   at System.Windows.UIElement.RaiseEventImpl(DependencyObject sender, RoutedEventArgs args)
+   at System.Windows.Controls.Primitives.ButtonBase.OnClick()
+   at System.Windows.Controls.Button.OnClick()
+   at System.Windows.Controls.Primitives.ButtonBase.OnMouseLeftButtonUp(MouseButtonEventArgs e)
+   at System.Windows.RoutedEventArgs.InvokeHandler(Delegate handler, Object target)
+   at System.Windows.EventRoute.InvokeHandlersImpl(Object source, RoutedEventArgs args, Boolean reRaised)
+   at System.Windows.UIElement.ReRaiseEventAs(DependencyObject sender, RoutedEventArgs args, RoutedEvent newEvent)
+   at System.Windows.RoutedEventArgs.InvokeHandler(Delegate handler, Object target)
+   at System.Windows.EventRoute.InvokeHandlersImpl(Object source, RoutedEventArgs args, Boolean reRaised)
+   at System.Windows.UIElement.RaiseEventImpl(DependencyObject sender, RoutedEventArgs args)
+   at System.Windows.UIElement.RaiseTrustedEvent(RoutedEventArgs args)
+   at System.Windows.Input.InputManager.ProcessStagingArea()
+   at System.Windows.Input.InputProviderSite.ReportInput(InputReport inputReport)
+   at System.Windows.Interop.HwndMouseInputProvider.ReportInput(IntPtr hwnd, InputMode mode, Int32 timestamp, RawMouseActions actions, Int32 x, Int32 y, Int32 wheel)
+   at System.Windows.Interop.HwndMouseInputProvider.FilterMessage(IntPtr hwnd, WindowMessage msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   at System.Windows.Interop.HwndSource.InputFilterMessage(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   at MS.Win32.HwndWrapper.WndProc(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   at MS.Win32.HwndSubclass.DispatcherCallbackOperation(Object o)
+   at System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   at System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
+   at System.Windows.Threading.Dispatcher.LegacyInvokeImpl(DispatcherPriority priority, TimeSpan timeout, Delegate method, Object args, Int32 numArgs)
+   at MS.Win32.HwndSubclass.SubclassWndProc(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam)
+   at MS.Win32.UnsafeNativeMethods.DispatchMessage(MSG& msg)
+   at System.Windows.Threading.Dispatcher.PushFrameImpl(DispatcherFrame frame)
+   at System.Windows.Threading.Dispatcher.PushFrame(DispatcherFrame frame)
+   at System.Windows.Threading.Dispatcher.Run()
+   at System.Windows.Application.RunDispatcher(Object ignore)
+   at System.Windows.Application.RunInternal(Window window)
+   at System.Windows.Application.Run()
+   at DS4WinWPF.App.Main()
+2025-04-28 00:11:01.9044|INFO|Stopping Virtual Output Controllers
+2025-04-28 00:11:01.9044|INFO|Closing connection to ViGEmBus
+2025-04-28 00:11:01.9044|INFO|Disassociated virtual DS4 Controller in output slot #1 from input controller #1 (DualSense)
+2025-04-28 00:11:01.9565|INFO|Stopping DS4 Input Controllers
+2025-04-28 00:11:01.9565|INFO|Stopped DS4Windows
+2025-04-28 00:11:01.9789|INFO|Unplugging virtual DS4 Controller from output slot #1
+2025-04-28 00:11:01.9789|INFO|Controller 1 was removed or lost connection

@@ -1,0 +1,44 @@
+2025-04-25 00:13:12.7472|INFO|DS4Windows version 3.2.9
+2025-04-25 00:13:12.7511|INFO|DS4Windows exe file: DS4WINDOWSHyperAxel2.exe
+2025-04-25 00:13:12.7511|INFO|DS4Windows Assembly Architecture: x64
+2025-04-25 00:13:12.7511|INFO|OS Version: Microsoft Windows NT 10.0.22631.0
+2025-04-25 00:13:12.7511|INFO|OS Product Name: Windows 10 Enterprise
+2025-04-25 00:13:12.7511|INFO|OS Release ID: 2009
+2025-04-25 00:13:12.7511|INFO|System Architecture: x64
+2025-04-25 00:13:12.7511|INFO|Logger created
+2025-04-25 00:13:13.7861|INFO|Running as User
+2025-04-25 00:13:13.7861|INFO|HidHide control device found
+2025-04-25 00:13:13.7861|INFO|DS4Windows not found in HidHide whitelist. Adding to list
+2025-04-25 00:13:14.8124|INFO|Starting...
+2025-04-25 00:13:14.8124|INFO|Using output KB+M handler: FakerInput 0.1.0.0
+2025-04-25 00:13:14.8124|INFO|Connection to ViGEmBus 1.21.442.0 established
+2025-04-25 00:13:14.8124|INFO|Searching for controllers...
+2025-04-25 00:13:14.8124|INFO|Using Exclusive Mode
+2025-04-25 00:13:18.8699|INFO|Found Controller: E8:47:3A:40:E2:34 (BT) (DualSense Edge).
+2025-04-25 00:13:19.0195|INFO|Plugging in virtual DS4 Controller in output slot #1
+2025-04-25 00:13:19.0195|INFO|Associated input controller #1 (DualSense Edge) to virtual DS4 Controller in output slot #1
+2025-04-25 00:13:19.0437|INFO|Controller 1 is using Profile "++". Battery level is 0%
+2025-04-25 00:30:57.5399|WARN|E8:47:3A:40:E2:34 disconnected due to read failure: 0
+2025-04-25 00:30:57.5508|INFO|Disassociated virtual DS4 Controller in output slot #1 from input controller #1 (DualSense Edge)
+2025-04-25 00:30:57.5617|INFO|Unplugging virtual DS4 Controller from output slot #1
+2025-04-25 00:30:57.5617|INFO|Controller 1 was removed or lost connection. Charge the battery
+2025-04-25 00:41:34.5309|INFO|Found Controller: E8:47:3A:40:E2:34 (BT) (DualSense Edge).
+2025-04-25 00:41:34.6289|INFO|Plugging in virtual DS4 Controller in output slot #1
+2025-04-25 00:41:34.6289|INFO|Associated input controller #1 (DualSense Edge) to virtual DS4 Controller in output slot #1
+2025-04-25 00:41:34.6289|INFO|Controller 1 is using Profile "++". Battery level is 0%
+2025-04-25 00:42:04.7095|WARN|E8:47:3A:40:E2:34 disconnected due to read failure: 0
+2025-04-25 00:42:04.7178|INFO|Disassociated virtual DS4 Controller in output slot #1 from input controller #1 (DualSense Edge)
+2025-04-25 00:42:04.7556|INFO|Unplugging virtual DS4 Controller from output slot #1
+2025-04-25 00:42:04.7556|INFO|Controller 1 was removed or lost connection. Charge the battery
+2025-04-25 00:53:43.3163|INFO|Found Controller: 4C:B9:9B:B7:3B:F5 (USB) (DualSense).
+2025-04-25 00:53:43.4724|INFO|Plugging in virtual DS4 Controller in output slot #1
+2025-04-25 00:53:43.4724|INFO|Associated input controller #1 (DualSense) to virtual DS4 Controller in output slot #1
+2025-04-25 00:53:43.4724|INFO|Controller 1 is using Profile "++". Battery level is 25%
+2025-04-25 02:32:41.7984|INFO|User Session Ending
+2025-04-25 02:32:41.7984|INFO|Stopping Virtual Output Controllers
+2025-04-25 02:32:41.7984|INFO|Closing connection to ViGEmBus
+2025-04-25 02:32:41.8125|INFO|Disassociated virtual DS4 Controller in output slot #1 from input controller #1 (DualSense)
+2025-04-25 02:32:41.9187|INFO|Unplugging virtual DS4 Controller from output slot #1
+2025-04-25 02:32:41.9187|INFO|Controller 1 was removed or lost connection
+2025-04-25 02:32:41.9808|INFO|Stopping DS4 Input Controllers
+2025-04-25 02:32:41.9808|INFO|Stopped DS4Windows

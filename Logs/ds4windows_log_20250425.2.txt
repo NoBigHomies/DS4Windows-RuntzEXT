@@ -1,0 +1,20 @@
+2025-04-25 13:56:57.9894|INFO|DS4Windows version 3.2.9
+2025-04-25 13:56:57.9931|INFO|DS4Windows exe file: DS4WINDOWSHyperAxel2.exe
+2025-04-25 13:56:57.9931|INFO|DS4Windows Assembly Architecture: x64
+2025-04-25 13:56:57.9931|INFO|OS Version: Microsoft Windows NT 10.0.22631.0
+2025-04-25 13:56:57.9931|INFO|OS Product Name: Windows 10 Enterprise
+2025-04-25 13:56:57.9931|INFO|OS Release ID: 2009
+2025-04-25 13:56:57.9931|INFO|System Architecture: x64
+2025-04-25 13:56:57.9931|INFO|Logger created
+2025-04-25 13:56:58.9588|INFO|Running as User
+2025-04-25 13:56:58.9599|INFO|HidHide control device found
+2025-04-25 13:56:58.9599|INFO|DS4Windows not found in HidHide whitelist. Adding to list
+2025-04-25 13:56:59.9872|INFO|Starting...
+2025-04-25 13:56:59.9872|INFO|Using output KB+M handler: FakerInput 0.1.0.0
+2025-04-25 13:56:59.9872|INFO|Connection to ViGEmBus 1.21.442.0 established
+2025-04-25 13:56:59.9872|INFO|Searching for controllers...
+2025-04-25 13:56:59.9872|INFO|Using Exclusive Mode
+2025-04-25 13:57:02.5795|INFO|Found Controller: 4C:B9:9B:B7:3B:F5 (USB) (DualSense).
+2025-04-25 13:57:02.7041|INFO|Plugging in virtual DS4 Controller in output slot #1
+2025-04-25 13:57:02.7041|INFO|Associated input controller #1 (DualSense) to virtual DS4 Controller in output slot #1
+2025-04-25 13:57:02.7230|INFO|Controller 1 is using Profile "++". Battery level is 0%

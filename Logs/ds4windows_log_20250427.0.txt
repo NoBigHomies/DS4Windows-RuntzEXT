@@ -1,0 +1,29 @@
+2025-04-26 18:37:53.3847|INFO|DS4Windows version 3.2.9
+2025-04-26 18:37:53.3884|INFO|DS4Windows exe file: DS4WINDOWSHyperAxel2.exe
+2025-04-26 18:37:53.3884|INFO|DS4Windows Assembly Architecture: x64
+2025-04-26 18:37:53.3884|INFO|OS Version: Microsoft Windows NT 10.0.22631.0
+2025-04-26 18:37:53.3884|INFO|OS Product Name: Windows 10 Enterprise
+2025-04-26 18:37:53.3884|INFO|OS Release ID: 2009
+2025-04-26 18:37:53.3884|INFO|System Architecture: x64
+2025-04-26 18:37:53.3884|INFO|Logger created
+2025-04-26 18:37:54.3109|INFO|Running as User
+2025-04-26 18:37:54.3109|INFO|HidHide control device found
+2025-04-26 18:37:54.3109|INFO|DS4Windows not found in HidHide whitelist. Adding to list
+2025-04-26 18:37:55.3346|INFO|Starting...
+2025-04-26 18:37:55.3346|INFO|Using output KB+M handler: FakerInput 0.1.0.0
+2025-04-26 18:37:55.3346|INFO|Connection to ViGEmBus 1.21.442.0 established
+2025-04-26 18:37:55.3346|INFO|Searching for controllers...
+2025-04-26 18:37:55.3346|INFO|Using Exclusive Mode
+2025-04-26 19:02:27.3673|INFO|Found Controller: E8:47:3A:40:E2:34 (BT) (DualSense Edge).
+2025-04-26 19:02:27.5452|INFO|Plugging in virtual DS4 Controller in output slot #1
+2025-04-26 19:02:27.5452|INFO|Associated input controller #1 (DualSense Edge) to virtual DS4 Controller in output slot #1
+2025-04-26 19:02:27.5742|INFO|Controller 1 is using Profile "++". Battery level is 100%
+2025-04-27 02:26:53.4626|WARN|E8:47:3A:40:E2:34 disconnected due to read failure: 0
+2025-04-27 02:26:53.4702|INFO|Disassociated virtual DS4 Controller in output slot #1 from input controller #1 (DualSense Edge)
+2025-04-27 02:26:53.5552|INFO|Unplugging virtual DS4 Controller from output slot #1
+2025-04-27 02:26:53.5552|INFO|Controller 1 was removed or lost connection. Charge the battery
+2025-04-27 05:10:32.2811|INFO|User Session Ending
+2025-04-27 05:10:32.2811|INFO|Stopping Virtual Output Controllers
+2025-04-27 05:10:32.2811|INFO|Closing connection to ViGEmBus
+2025-04-27 05:10:32.2811|INFO|Stopping DS4 Input Controllers
+2025-04-27 05:10:32.2811|INFO|Stopped DS4Windows

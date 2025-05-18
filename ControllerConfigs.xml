@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Controller config data. 04/28/2025 00:13:05 -->
+
+<Controllers>
+  <Controller Mac="2C:EF:18:97:00:00" ControllerType="DS4">
+    <DS4SupportSettings>
+      <Copycat>False</Copycat>
+    </DS4SupportSettings>
+  </Controller>
+  <Controller Mac="1D:1B:62:19:00:00" ControllerType="DS4">
+    <DS4SupportSettings>
+      <Copycat>False</Copycat>
+    </DS4SupportSettings>
+  </Controller>
+  <Controller Mac="33:02:E8:FA:00:00" ControllerType="DS4">
+    <DS4SupportSettings>
+      <Copycat>False</Copycat>
+    </DS4SupportSettings>
+  </Controller>
+  <Controller Mac="4C:B9:9B:B7:3B:F5" ControllerType="DualSense">
+    <DualSenseSupportSettings>
+      <LEDBarMode>MultipleControllers</LEDBarMode>
+      <MuteLEDMode>Off</MuteLEDMode>
+    </DualSenseSupportSettings>
+  </Controller>
+</Controllers>
